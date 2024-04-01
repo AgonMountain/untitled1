@@ -11,6 +11,7 @@
         Cache-Control: max-age
         Strict-Transport-Security: max-age=15768000
     </responseHeader>
+    <!-- Комментарий -->
     <requestHeader class="java.lang.String">
         Connection: keep-alive
         Sec-Fetch-Mode: cors
